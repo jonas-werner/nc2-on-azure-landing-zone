@@ -2,6 +2,9 @@
 
 This repository contains Terraform/OpenTofu configurations for deploying an Azure landing zone suitable for deploying a Nutanix Cloud Clusters (NC2) cluster. It includes S2S VPN connectivity with BGP routing to an on-prem environment with the creation of all vNets, peerings, VPN gateways, NAT gateways, and Azure Route Server resources required. 
 
+Diagram of what is deployed (minus the actual NC2 cluster): 
+![Diagram of Azure resources created](https://jonamiki.com/wp-content/uploads/2024/12/Screenshot-2024-12-19-at-15.10.32.png)
+
 ## Prerequisites
 
 - [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)
