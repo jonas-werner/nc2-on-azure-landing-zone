@@ -6,7 +6,7 @@
 ###############################################################
 #
 # Author: Jonas Werner
-# Date: 2024
+# Date: 2025/06/10 (yyyy/mm/dd)
 # Version: 1.0.0
 # Web: https://jonamiki.com
 # Description: Variable definitions for Azure NC2 resources deployment
