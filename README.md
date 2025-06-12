@@ -102,6 +102,7 @@ The deployment creates the following resources:
 ## Note
 
 After deployment, navigate to: Route Server -> Settings -> Configuration and update the "Branch-to-branch" setting to "Enabled". This is required for the Rotue Server to share NC2 overlay network routes over BGP. Also change the "Routing Preference" to "VPN" to ensure the RS shares the routes with the VPN GW instance. 
+![Azure_Route_Server_update](assets/Azure_Route-Server_setting_update.png)
 
 ## License
 
